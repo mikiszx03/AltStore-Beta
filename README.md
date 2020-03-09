@@ -2,8 +2,8 @@
 AltStore Beta - Sideload every iPA
 
 # Before Installing:
--Download the latest version of iTunes directly from Apple (not the Microsoft Store).
--Download the latest version of iCloud directly from Apple (not the Microsoft Store).
+- Download the latest version of iTunes directly from Apple (not the Microsoft Store).
+- Download the latest version of iCloud directly from Apple (not the Microsoft Store).
 
 # Installing 
 - Download AltServer Beta from []
