@@ -19,4 +19,4 @@ AltStore Beta - Sideload every iPA **[Releases](https://github.com/Thunder7yoshi
 - Click the **AltServer** icon in the Notification Area, click “**Install AltStore**”, then choose your phone.
 - Enter your **Apple ID** email and password (NOTE: both email address and password are case sensitive).
 - Wait a few seconds, then AltStore will be installed to your phone.
-
+![](https://i.imgur.com/ENIbfyA.png)
