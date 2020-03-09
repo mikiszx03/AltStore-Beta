@@ -16,5 +16,6 @@ AltStore Beta - Sideload every iPA **[Releases](https://github.com/Thunder7yoshi
 - Enter your Apple ID email and password (NOTE: both email address and password are case sensitive).
 - Wait a few seconds, then AltStore will be installed to your phone.
 
-# Patreon - We love you!
+# Patreon
 - Don't forget to support Riley Testut through his **[Patreon](https://www.patreon.com/rileytestut)**
+# We love you!
