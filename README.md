@@ -1,5 +1,5 @@
 # AltStore-Beta
-AltStore Beta - Sideload every iPA
+AltStore Beta - Sideload every iPA <https://github.com/Thunder7yoshi/AltStore-Beta/releases/>ciao
 
 # Before Installing:
 - Download the latest version of iTunes directly from Apple (not the Microsoft Store).
