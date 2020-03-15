@@ -1,5 +1,5 @@
 # AltStore-Beta
-AltStore Beta - Sideload every iPA **[Releases](https://github.com/Thunder7yoshi/AltStore-Beta/releases/)**
+AltStore Beta - Sideload every iPA - **[Releases](https://github.com/Thunder7yoshi/AltStore-Beta/releases/)**
 
 # Credits
 - **[CrafterPika](https://twitter.com/CrafterPika)** for the idea and for discovering **[this](https://github.com/CrafterPika/altstore_ipas)**
