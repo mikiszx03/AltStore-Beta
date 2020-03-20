@@ -7,7 +7,7 @@ AltStore Beta - Sideload every iPA - **[Releases](https://github.com/Thunder7yos
 
 # Installing 
 - Download the AltServer Beta from **[Here](https://github.com/Thunder7yoshi/AltStore-Beta/releases/download/v1.3b2/AltServer.Beta.Build.rar)**
-- Extract the downloaded “**AltServer.Beta.Build.rar**” file. [The password is "**Thunder7yoshi**"]
+- Extract the downloaded “**AltServer.Beta.Build.rar**” file with **[winRAR(https://www.rarlab.com/rar/winrar-x64-580.exe)]**. [The password is "**Thunder7yoshi**"]
 - Launch AltServer by double-clicking on "**AltServer**" file
   (it will appear as an icon in the **Notification Area**).
 - Trust your iPhone with your computer (if needed).
